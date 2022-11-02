@@ -1,4 +1,4 @@
-## Explorium 👋
+## Welcome to Explorium 👋
 
 Meet all your external data enrichment
 and usage needs in one place.
